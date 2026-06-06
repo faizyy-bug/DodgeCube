@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NPC : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
     public float forwardForce;
