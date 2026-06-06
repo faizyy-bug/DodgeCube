@@ -73,15 +73,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-CozyRacer/Library/
-CozyRacer/Temp/
-CozyRacer/obj/
-CozyRacer/Logs/
-CozyRacer/UserSettings/
-CozyRacer/.vsconfig
-CozyRacer/*.sln
+DodgeCube/Library/
+DodgeCube/Temp/
+DodgeCube/obj/
+DodgeCube/Logs/
+DodgeCube/UserSettings/
+DodgeCube/.vsconfig
+DodgeCube/*.sln
 .vscode/
-CozyRacer/.vsconfig
-CozyRacer/*.slnx
+DodgeCube/.vsconfig
+DodgeCube/*.slnx
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
