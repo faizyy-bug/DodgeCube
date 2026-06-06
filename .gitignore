@@ -80,5 +80,8 @@ CozyRacer/Logs/
 CozyRacer/UserSettings/
 CozyRacer/.vsconfig
 CozyRacer/*.sln
+.vscode/
+CozyRacer/.vsconfig
+CozyRacer/*.slnx
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
