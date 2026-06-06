@@ -78,5 +78,7 @@ CozyRacer/Temp/
 CozyRacer/obj/
 CozyRacer/Logs/
 CozyRacer/UserSettings/
+CozyRacer/.vsconfig
+CozyRacer/*.sln
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
