@@ -1,2 +1,2 @@
-# CozyRacer
-Cozy race game
+# DodgeCube
+dodge the objects with a cube
